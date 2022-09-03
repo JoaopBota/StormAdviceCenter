@@ -1,0 +1,4 @@
+zain,Tornado,12,45.2
+fari,Hurricane,50,63.2
+hihi,Tornado,67,63.25
+blabal,Tornado,65,90.0
